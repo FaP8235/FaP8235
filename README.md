@@ -1,16 +1,16 @@
-## Hi there 👋
+## 游戏入门开发者报道🙌
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaP8235&show_icons=true&theme=radical)
 
-<!--
-**FaP8235/FaP8235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="img" align=center>
+  [![知乎](https://img.shields.io/badge/知乎-伊城-green)](https://www.zhihu.com/people/yi-cheng-63-16)
+  
+  [![博客](https://img.shields.io/badge/blog-FaP8235-yellow)](https://fap8235.github.io/)
 
-Here are some ideas to get you started:
+  [![B站](https://img.shields.io/badge/B站-绘笔众生-red)](https://space.bilibili.com/44616909)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![cpp](https://img.shields.io/badge/code-C++-blue)]
+
+  [![python](https://img.shields.io/badge/code-python-blue)]
+  
+</div>
+
