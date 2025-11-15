@@ -9,9 +9,10 @@
 
   [![B站](https://img.shields.io/badge/B站-绘笔众生-red)](https://space.bilibili.com/44616909)
 
-  [![cpp](https://img.shields.io/badge/code-C++-blue)]
+  [![cpp](https://img.shields.io/badge/code-C++-blue)]()
 
-  [![python](https://img.shields.io/badge/code-python-blue)]
+  [![python](https://img.shields.io/badge/code-python-blue)]()
+  
   
 </div>
 
